@@ -1,0 +1,13 @@
+ #variables
+name="Pradnya Tembhurnikar"
+age=19
+course= "BE (2028 Batch)"
+print('My name is', name)
+print('My age is',age,"I'm pursuing BE from NMIET")
+#printing type of variables
+print(type(age))
+print(type(name))
+#type casting
+str(age)
+print(type(age))
+

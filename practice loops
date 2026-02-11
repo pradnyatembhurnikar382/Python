@@ -1,0 +1,21 @@
+#taking user input
+name=input("Enter your name:")
+age = input("Enter your age:")
+print("Welcome",name)
+print("Your age is",age)
+#slicing & indexing
+str="Pradnya_20"
+print(str[:len(str)])
+print(str[5])
+print(str[1:])
+#loops
+i=0
+while i<=6:
+    print(str)
+    if(i==3):
+        break
+    i+=1
+for el in str:
+    print(el)
+
+    
